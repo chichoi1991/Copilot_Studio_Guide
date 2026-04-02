@@ -4,6 +4,7 @@ title: "외부(사내/대외) 시스템 연동 방식"
 short_title: "외부 시스템 연동"
 description: "Power Automate 연계, 표준 커넥터, HTTP API 연동, 인증 방식 등 Copilot Studio의 외부 시스템 통합 전략을 안내합니다."
 order: 4
+icon: "🔗"
 ---
 
 ## Power Automate 연계

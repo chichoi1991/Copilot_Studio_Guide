@@ -4,6 +4,7 @@ title: "참고 자료 및 확장 방향"
 short_title: "참고 자료"
 description: "Copilot Studio 공식 문서, Power Automate 연계 문서, 외부 연동 참고 자료, 향후 확장 아키텍처 방향을 정리합니다."
 order: 8
+icon: "📚"
 ---
 
 ## Copilot Studio 공식 문서

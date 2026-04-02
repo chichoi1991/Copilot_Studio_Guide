@@ -4,6 +4,7 @@ title: "Copilot Studio로 만드는 '반개발형 Agent'"
 short_title: "반개발형 Agent"
 description: "기본 대화 설계 방식, 변수·상태 관리, Action 기반 처리 흐름 등 Agent 구축의 핵심 방법론을 다룹니다."
 order: 3
+icon: "⚙️"
 ---
 
 ## 기본 대화 설계 방식
